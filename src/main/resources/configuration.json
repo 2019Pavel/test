@@ -1,0 +1,5 @@
+{
+  "home_url": "https://demoqa.com/",
+  "browser": "Google Chrome",
+  "browser_options": ["start-maximized"]
+}
